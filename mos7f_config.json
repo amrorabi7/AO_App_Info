@@ -1,7 +1,7 @@
 {
   "new_version": 21,
   "update_title": "تحديث جديد متوفر",
-  "update_message": "يرجى تحديث التطبيق للاستمرار في الاستخدام.",  
-  "force_update": "N",
-  "repate_reminder": "Y"
+  "update_message": "يرجى تحديث التطبيق للاستمرار في الاستخدام.",
+  "force_update": false,
+  "reminder_interval": -1
 }
