@@ -3,5 +3,5 @@
   "update_title": "تحديث جديد متوفر",
   "update_message": "يرجى تحديث التطبيق للاستمرار في الاستخدام.",
   "force_update": false,
-  "remind_interval": -1
+  "remind_interval": 0
 }
