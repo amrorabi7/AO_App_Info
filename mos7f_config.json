@@ -2,6 +2,6 @@
   "new_version": 121,
   "update_title": "تحديث جديد متوفر",
   "update_message": "يرجى تحديث التطبيق للاستمرار في الاستخدام.",
-  "force_update": false,
-  "remind_interval": 3
+  "force_update": true,
+  "remind_interval": 0
 }
