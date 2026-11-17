@@ -1,7 +1,7 @@
 {
-  "new_version": 120,
+  "new_version": 121,
   "update_title": "تحديث جديد متوفر",
   "update_message": "يرجى تحديث التطبيق للاستفادة بالمزايا الجديدة.",
   "force_update": false,
-  "remind_interval": 48
+  "remind_interval": 72
 }
