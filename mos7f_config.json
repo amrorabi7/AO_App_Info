@@ -1,7 +1,7 @@
 {
-  "new_version": 121,
-  "update_title": "تحديث جديد متوفر",
-  "update_message": "يرجى تحديث التطبيق للاستفادة بالمزايا الجديدة.",
-  "force_update": false,
-  "remind_interval": 72
+  "new_version": 124,
+  "update_title": "تحديث جديد متوفر",
+  "update_message": "تم حل مشكلة الانتقال للسورة التالية في السور الصغيرة وتحسينات عامة اخرى",
+  "force_update": false,
+  "remind_interval": 120
 }
