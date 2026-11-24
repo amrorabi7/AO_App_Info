@@ -3,5 +3,5 @@
   "update_title": "تحديث جديد متوفر",
   "update_message": "تم حل مشكلة الانتقال للسورة التالية في السور الصغيرة وتحسينات عامة اخرى",
   "force_update": false,
-  "remind_interval": 120
+  "remind_interval": 72
 }
